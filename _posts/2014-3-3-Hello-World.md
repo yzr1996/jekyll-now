@@ -11,7 +11,7 @@ Imagine that you opened a convenience store in a university 3 years ago, and eve
 The technique of customer segmentation appeared earlier than the machine learning. It was previously a challenging and time-consuming task, which requires to handle and compute tons of data manually and due the limitation of human beings, the outcomes are not always ideal. But in recent years it has become much easier thanks to machine learning. Today, I will explain the concepts behind the screen by using machine learning models to segment customers.
 Let us start with the definition of the machine learning. Machine learning is teaching computers how to solve certain questions. In this post, the question is separating the customers into different groups. Where do computers learn from? The answer is data, usually the data with huge size. In our case, the ideal data should contain thousands of rows, and each row saves the order information of a customer, like something below,
 
-<img src="../images/dataset.png" alt="Drawing" style="width: 400px;"/>
+<img src="../images/dataset.png" alt="Drawing" style="width: 600px;"/>
 
 (https://towardsdatascience.com/customer-segmentation-with-machine-learning-a0ac8c3d4d84)
 
