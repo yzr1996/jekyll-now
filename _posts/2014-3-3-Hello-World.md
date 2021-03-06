@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customer segmentation: how machine learning helps your business
+title: Customer segmentation, how machine learning helps your business
 ---
 
 
